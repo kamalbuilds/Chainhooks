@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "components/chainhook-sdk",
+    "components/chainhook-cli",
+    "components/chainhook-types-rs",
+]
+default-members = ["components/chainhook-cli", "components/chainhook-sdk"]
